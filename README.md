@@ -1,6 +1,6 @@
 # resource-allocation
-Resource allocation for users in G.Fast
-Simplest case: 
+Resource allocation for users in G.Fast <br>
+Simplest case: <br>
 Assumption 1: All users have equal rate requirement w
 Assumption 2: All n-tuples of users sharing a time slot get the same bit-loading
 
